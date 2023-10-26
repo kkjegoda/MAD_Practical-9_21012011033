@@ -4,6 +4,7 @@ import android.graphics.drawable.AnimationDrawable
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.ImageView
+import android.media.Image
 
 class MainActivity : AppCompatActivity() {
     lateinit var alarmanimation: AnimationDrawable
